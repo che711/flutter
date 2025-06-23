@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
             children: const [
               Text('Hello World!'),
               Text('It\'s time to learn Flutter!\nLet\'s go!'),
+              Text('Let\'s go!'),
             ],
           ),
         ),
