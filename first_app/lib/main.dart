@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: const [
               Text('Hello World!'),
-              Text('It\'s time to learn Flutter!'),
+              Text('It\'s time to learn Flutter!\nLet\'s go!'),
             ],
           ),
         ),
